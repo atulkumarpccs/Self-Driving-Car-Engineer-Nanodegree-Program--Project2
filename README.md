@@ -10,8 +10,11 @@ Applying deep neural networks and convolutional neural networks to classify traf
 
 ## Submission Requirment :
  1.The Traffic_Sign_Classifier.ipynb notebook file with all questions answered and all code cells executed and displaying output.
+ 
  2.An HTML or PDF export of the project notebook with the name report.html or report.pdf.
+ 
  3 Any additional datasets or images used for the project that are not from the German Traffic Sign Dataset. 
+ 
  4.Your writeup report as a markdown or pdf file
  
  ### Acceptance Criteria :
