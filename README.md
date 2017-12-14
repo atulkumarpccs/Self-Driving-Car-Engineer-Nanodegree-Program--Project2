@@ -6,11 +6,13 @@ The second  assignement project  in Term 1 for submission.
 
 [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
+Applying deep neural networks and convolutional neural networks to classify traffic signs. Specifically to train a model to classify traffic signs.Specifically, you'll train a model to classify traffic signs from the German Traffic Sign Dataset
+
 ## Submission Requirment :
- The Traffic_Sign_Classifier.ipynb notebook file with all questions answered and all code cells executed and displaying output.
-An HTML or PDF export of the project notebook with the name report.html or report.pdf.
-Any additional datasets or images used for the project that are not from the German Traffic Sign Dataset. Please do not include the project data set provided in the traffic-sign-data.zip file.
-Your writeup report as a markdown or pdf file
+ 1.The Traffic_Sign_Classifier.ipynb notebook file with all questions answered and all code cells executed and displaying output.
+ 2.An HTML or PDF export of the project notebook with the name report.html or report.pdf.
+ 3 Any additional datasets or images used for the project that are not from the German Traffic Sign Dataset. 
+ 4.Your writeup report as a markdown or pdf file
  
  ### Acceptance Criteria :
  <https://review.udacity.com/#!/rubrics/322/view>
@@ -49,7 +51,7 @@ Complete the Setup instructions.
    
  ### Known Issues :
  
- 1.Set up is not done for Linux environment
+ 1.Set up is not done for personal Linux environment.
  
  2.Set up is not done for personal machine.
  
