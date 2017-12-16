@@ -30,8 +30,9 @@ Applying deep neural networks and convolutional neural networks to classify traf
 If you have access to a GPU, you should follow the TensorFlow instructions for installing TensorFlow with GPU support.
 
 Once you've installed all of the necessary dependencies, you can install the tensorflow-gpu package:
-
+```sh
 pip install tensorflow-gpu
+```
 
 Amazon Web Services
 Instead of a local GPU, you could use Amazon Web Services to launch an EC2 GPU instance. (This costs money.)
@@ -40,7 +41,7 @@ Follow the Udacity instructions to launch an EC2 GPU instance with the udacity-c
 Complete the Setup instructions. 
 
  ### Build Steps :
- 
+ ```sh
  1.complete me.
  
  2.complete me``activate carnd-term1``
@@ -50,13 +51,14 @@ Complete the Setup instructions.
  4.Go to the submission folder/directory >>cd /Project2/Project_Submission/
   
  5.Run the command from anaconda command promt>>``jupyter notebook P1.ipynb``
-   
+ ```  
    
  ### Known Issues :
- 
+ ```sh
  1.Set up is not done for personal Linux environment.
  
- 2.Set up is not done for personal machine.
+ 2.Set up is not done for personal windows 10 machine.
  
- 3.Some of package for python are installed manually. 
+ 3.Some of package for python are installed manually.
+ ```
  
