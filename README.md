@@ -42,15 +42,15 @@ Complete the Setup instructions.
 
  ### Build Steps :
  ```sh
- 1.complete me.
+ 1.All steps are based on windows 10 environement.
  
- 2.complete me``activate carnd-term1``
+ 2.Acivate the environement set in first projects ``activate carnd-term1``
  
  3.Clone the project from github >>``git clone https://github.com/atulkumarpccs/Self-Driving-Car-Engineer-Nanodegree-Program--Project2 `` 
  
- 4.Go to the submission folder/directory >>cd /Project2/Project_Submission/
+ 4.Go to the submission folder/directory >>..Project_Submission
   
- 5.Run the command from anaconda command promt>>``jupyter notebook P1.ipynb``
+ 5.Run the command from anaconda command promt>>``jupyter notebook Traffic_Sign_Classifier.ipynb``
  ```  
    
  ### Known Issues :
