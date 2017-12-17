@@ -55,14 +55,14 @@ In this project, you will use what you've learned about deep neural networks and
 Random training images displayed to go through the dataset using matplotlib.
 
 
-<img src="other_images/writeup_random1.png" width="480" alt="image" />
-<img src="other_images/writeup_random2.png" width="480" alt="image" />
-<img src="other_images/writeup_random3.png" width="480" alt="image" />
-<img src="other_images/writeup_random4.png" width="480" alt="image" />
+<img src="/Others_Images/writeup_random1.png" width="480" alt="image" />
+<img src="/Others_Images/writeup_random2.png" width="480" alt="image" />
+<img src="/Others_Images/writeup_random3.png" width="480" alt="image" />
+<img src="/Others_Images/writeup_random4.png" width="480" alt="image" />
   
 Then ploted a diagrm to show of count of each signs in training data set.
 
-<img src="other_images/writeup_histogram.png" width="480" alt="image" />
+<img src="/Others_Images/writeup_histogram.png" width="480" alt="image" />
 
 #### 3) Design and Test a Model Architecture
 
@@ -90,17 +90,17 @@ Image before and after normalisation are displayed here.
 
 Before:
 
-<img src="other_images/writeup_norm_before.png" width="480" alt="image" />
+<img src="/Others_Images/writeup_norm_before.png" width="480" alt="image" />
 
 After:
 
-<img src="other_images/writeup_norm_after.png" width="480" alt="image" />
+<img src="/Others_Images/writeup_norm_after.png" width="480" alt="image" />
 
 **Model Architecture**
 
 LeNet-5 architecture:
 
-<img src="other_images/lenet.png" width="800" alt="image" />
+<img src="/Others_Images/lenet.png" width="800" alt="image" />
 
 ```
 Input
@@ -265,20 +265,20 @@ The higest validation accuracy reached at 0.944 and test validation accuracy at 
 
 I found 6 images from the web of 32x32x3 dimension.
 
-<img src="german_Images/1.png" width="480" alt="image" />
-<img src="german_Images/2.png" width="480" alt="image" />
-<img src="german_Images/3.png" width="480" alt="image" />
-<img src="german_Images/4.png" width="480" alt="image" />
-<img src="german_Images/5.png" width="480" alt="image" />
-<img src="german_Images/6.png" width="480" alt="image" />
+<img src="/German_Images/1.png" width="480" alt="image" />
+<img src="/German_Images/2.png" width="480" alt="image" />
+<img src="/German_Images/3.png" width="480" alt="image" />
+<img src="/German_Images/4.png" width="480" alt="image" />
+<img src="/German_Images/5.png" width="480" alt="image" />
+<img src="/German_Images/6.png" width="480" alt="image" />
 Did a normalisation and images look like below:
 
-<img src="other_images/german_after1.png" width="480" alt="image" />
-<img src="other_images/german_after2.png" width="480" alt="image" />
-<img src="other_images/german_after3.png" width="480" alt="image" />
-<img src="other_images/german_after4.png" width="480" alt="image" />
-<img src="other_images/german_after5.png" width="480" alt="image" />
-<img src="other_images/german_after6.png" width="480" alt="image" />
+<img src="/Others_Images/german_after1.png" width="480" alt="image" />
+<img src="/Others_Images/german_after2.png" width="480" alt="image" />
+<img src="/Others_Images/german_after3.png" width="480" alt="image" />
+<img src="/Others_Images/german_after4.png" width="480" alt="image" />
+<img src="/Others_Images/german_after5.png" width="480" alt="image" />
+<img src="/Others_Images/german_after6.png" width="480" alt="image" />
 
 The model was able to correctly guess 6 of the 6 traffic signs, which gives an accuracy of 100%. 
 ```
