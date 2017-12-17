@@ -60,5 +60,7 @@ Complete the Setup instructions.
  2.Set up is not done for personal windows 10 machine.
  
  3.Some of package for python are installed manually.
+ 
+ 4. AWS setup is not working as per support project so done locally.
  ```
  
