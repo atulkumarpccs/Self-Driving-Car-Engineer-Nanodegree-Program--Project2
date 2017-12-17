@@ -55,14 +55,14 @@ In this project, you will use what you've learned about deep neural networks and
 Random training images displayed to go through the dataset using matplotlib.
 
 
-<img src="other_images/writeup_random1.png" width="480" alt="image" />
-<img src="other_images/writeup_random2.png" width="480" alt="image" />
-<img src="other_images/writeup_random3.png" width="480" alt="image" />
-<img src="other_images/writeup_random4.png" width="480" alt="image" />
+<img src="Other_Images/writeup_random1.png" width="480" alt="image" />
+<img src="Other_Images/writeup_random2.png" width="480" alt="image" />
+<img src="Other_Images/writeup_random3.png" width="480" alt="image" />
+<img src="Other_Images/writeup_random4.png" width="480" alt="image" />
   
 Then ploted a diagrm to show of count of each signs in training data set.
 
-<img src="other_images/writeup_histogram.png" width="480" alt="image" />
+<img src="Other_Imagess/writeup_histogram.png" width="480" alt="image" />
 
 #### 3. Design and Test a Model Architecture(asper rechearch paper)
 
